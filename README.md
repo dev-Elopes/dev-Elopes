@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Eduardo lopes🖐️
 ## Estuadnte de Engenharia de software
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/dev_Elopes/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-Elopes)](https://github.com/dev_Elopes/github-readme-stats)
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_edu.lopes/)
 [![Linkdin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardo-lopes-barros-417669280/)
